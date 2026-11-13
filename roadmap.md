@@ -1,0 +1,4 @@
+- [x] Finish the MOYA public landing, sign-in, authenticated workspace, and navigation.
+- [x] Implement transfer comparison, recipient and allocation management, saved transactions, tracking, and proof simulation.
+- [x] Add the generated Cloud schema's use in the frontend, app metadata, and README setup/demo documentation.
+- [ ] Run domain tests, exercise the transfer flow in preview, check build telemetry, and commit.
