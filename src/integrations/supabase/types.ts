@@ -20,6 +20,8 @@ export type Database = {
           display_name: string
           id: string
           phone: string | null
+          preferred_payout_method: string
+          preferred_route: string
           updated_at: string
         }
         Insert: {
@@ -27,6 +29,8 @@ export type Database = {
           display_name?: string
           id: string
           phone?: string | null
+          preferred_payout_method?: string
+          preferred_route?: string
           updated_at?: string
         }
         Update: {
@@ -34,6 +38,8 @@ export type Database = {
           display_name?: string
           id?: string
           phone?: string | null
+          preferred_payout_method?: string
+          preferred_route?: string
           updated_at?: string
         }
         Relationships: []

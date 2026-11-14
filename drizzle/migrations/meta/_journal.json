@@ -15,6 +15,13 @@
       "when": 1794591224085,
       "tag": "0001_add_moya_user_roles",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1794614649381,
+      "tag": "0002_add_profile_preferences",
+      "breakpoints": true
     }
   ]
 }

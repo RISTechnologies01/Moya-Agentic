@@ -32,3 +32,4 @@ use the editor.
 ## Project architecture
 
 - Build the product as a TanStack Start app with Lovable Cloud Auth and owner-scoped Postgres records; external payment and ledger activity must remain explicitly simulated unless a real provider is connected.
+- Keep editable display names and transfer defaults in the owner-scoped profile row so account settings and the send flow share persisted preferences.
